@@ -1,0 +1,22 @@
+{
+  "name": "spez-fibre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMLS3/spez-fibre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PMLS3/spez-fibre/issues"
+  },
+  "homepage": "https://github.com/PMLS3/spez-fibre#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
